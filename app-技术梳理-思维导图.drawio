@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-22T11:29:23.703Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="blyc2arOdfTeWbdxwSwc" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-22T11:32:08.073Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="lD3tU_HQ8F_xZEdadS1u" version="15.8.3" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -37,6 +37,9 @@
         <mxCell id="1760" value="质量" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#1699d3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="720" y="100" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="CY7fThYMbKXU7DrtZSGb-1796" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1762" target="CY7fThYMbKXU7DrtZSGb-1794">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1762" value="自动化代码检查" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="940" y="260" width="150" height="60" as="geometry" />
         </mxCell>
@@ -59,6 +62,33 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="94.20666666666654" y="450" as="sourcePoint" />
             <mxPoint x="60.000000000000064" y="521.008" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CY7fThYMbKXU7DrtZSGb-1787" value="D2C" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="380" y="380" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CY7fThYMbKXU7DrtZSGb-1790" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#E85642;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;entryX=0.558;entryY=0.016;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1754" target="CY7fThYMbKXU7DrtZSGb-1787">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440.0033333333333" y="320" as="sourcePoint" />
+            <mxPoint x="497.33666666666676" y="406" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CY7fThYMbKXU7DrtZSGb-1791" value="自动化测试" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="640" y="390" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CY7fThYMbKXU7DrtZSGb-1793" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#1699D3;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" edge="1" parent="1" source="1763" target="CY7fThYMbKXU7DrtZSGb-1791">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="320" as="sourcePoint" />
+            <mxPoint x="672" y="416" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CY7fThYMbKXU7DrtZSGb-1794" value="代码提交前错误、规范、注释检查" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="940" y="390" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CY7fThYMbKXU7DrtZSGb-1795" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#1699D3;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1014.5" y="320" as="sourcePoint" />
+            <mxPoint x="1014.5" y="386" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
