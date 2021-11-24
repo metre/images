@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-24T01:21:40.260Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="7peCgEoAHjCmX9Zhgifr" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-24T01:22:56.588Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="-rrYv4gIECfLMIJGpt64" version="15.8.3" type="github">
   <diagram id="5t4wGBa66jrqZ2ULJCFr" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" background="none" math="0" shadow="0">
       <root>
@@ -73,10 +73,10 @@
         <mxCell id="kLMKeRcshYw_PilVYGeS-42" value="UI组件" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;strokeWidth=2;fillColor=#e1d5e7;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="870.75" y="180" width="79.5" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="kLMKeRcshYw_PilVYGeS-43" value="NPM包" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;strokeWidth=2;fillColor=#e1d5e7;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="kLMKeRcshYw_PilVYGeS-43" value="业务组件" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;strokeWidth=2;fillColor=#e1d5e7;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="870.75" y="259.5" width="79.5" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="kLMKeRcshYw_PilVYGeS-44" value="&lt;b&gt;......&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;strokeWidth=2;fillColor=#e1d5e7;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="kLMKeRcshYw_PilVYGeS-44" value="NPM包" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;strokeWidth=2;fillColor=#e1d5e7;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="870.75" y="340" width="79.5" height="62" as="geometry" />
         </mxCell>
         <mxCell id="kLMKeRcshYw_PilVYGeS-45" value="配置中心" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0e8088;strokeWidth=2;fillColor=#FFFFFF;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
