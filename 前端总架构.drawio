@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-24T01:22:56.588Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="-rrYv4gIECfLMIJGpt64" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-24T01:24:53.052Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="9bvl3w46gpaI9fQG3P-k" version="15.8.3" type="github">
   <diagram id="5t4wGBa66jrqZ2ULJCFr" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" background="none" math="0" shadow="0">
       <root>
@@ -43,13 +43,13 @@
         <mxCell id="kLMKeRcshYw_PilVYGeS-26" value="&lt;span&gt;投注机&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82B366;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="670" y="42.5" width="119" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="kLMKeRcshYw_PilVYGeS-27" value="用户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="kLMKeRcshYw_PilVYGeS-27" value="用户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;" parent="1" vertex="1">
           <mxGeometry x="555" y="163.5" width="70" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="kLMKeRcshYw_PilVYGeS-28" value="充值/提现" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="kLMKeRcshYw_PilVYGeS-28" value="充值/提现" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="733" y="163.5" width="70" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="kLMKeRcshYw_PilVYGeS-29" value="支付" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="kLMKeRcshYw_PilVYGeS-29" value="支付" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;" parent="1" vertex="1">
           <mxGeometry x="643" y="163.5" width="70" height="66" as="geometry" />
         </mxCell>
         <mxCell id="kLMKeRcshYw_PilVYGeS-31" value="Sports" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9999FF;strokeColor=#6666FF;" parent="1" vertex="1">
@@ -70,17 +70,17 @@
         <mxCell id="kLMKeRcshYw_PilVYGeS-41" value="私有库" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;strokeWidth=2;fillColor=#FFFFFF;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="861" y="137.5" width="99" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="kLMKeRcshYw_PilVYGeS-42" value="UI组件" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;strokeWidth=2;fillColor=#e1d5e7;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="kLMKeRcshYw_PilVYGeS-42" value="UI组件" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9673A6;strokeWidth=1;fillColor=#E1D5E7;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="870.75" y="180" width="79.5" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="kLMKeRcshYw_PilVYGeS-43" value="业务组件" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;strokeWidth=2;fillColor=#e1d5e7;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="kLMKeRcshYw_PilVYGeS-43" value="业务组件" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;strokeWidth=1;fillColor=#e1d5e7;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="870.75" y="259.5" width="79.5" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="kLMKeRcshYw_PilVYGeS-44" value="NPM包" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;strokeWidth=2;fillColor=#e1d5e7;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="kLMKeRcshYw_PilVYGeS-44" value="NPM包" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;strokeWidth=1;fillColor=#e1d5e7;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="870.75" y="340" width="79.5" height="62" as="geometry" />
         </mxCell>
         <mxCell id="kLMKeRcshYw_PilVYGeS-45" value="配置中心" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0e8088;strokeWidth=2;fillColor=#FFFFFF;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="990" y="30" width="100" height="500" as="geometry" />
+          <mxGeometry x="990" y="30" width="100" height="390" as="geometry" />
         </mxCell>
         <mxCell id="kLMKeRcshYw_PilVYGeS-46" value="埋点配置" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0e8088;strokeWidth=2;fillColor=#b0e3e6;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1005" y="77.5" width="70" height="60" as="geometry" />
