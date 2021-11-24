@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-24T01:29:43.251Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="PavSlCu3Cv6K90LwlyvP" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-24T01:48:59.790Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="WpHqTtwfQRPF9B9aumWe" version="15.8.3" type="github">
   <diagram id="5t4wGBa66jrqZ2ULJCFr" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" background="none" math="0" shadow="0">
       <root>
@@ -16,8 +16,8 @@
         <mxCell id="kLMKeRcshYw_PilVYGeS-17" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#D6B656;strokeWidth=2;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="231.5" y="166.5" width="608.5" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="kLMKeRcshYw_PilVYGeS-18" value="应用壳（导航）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#D6B656;" parent="1" vertex="1">
-          <mxGeometry x="250" y="192.5" width="280" height="66" as="geometry" />
+        <mxCell id="kLMKeRcshYw_PilVYGeS-18" value="应用壳" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#D6B656;" parent="1" vertex="1">
+          <mxGeometry x="250" y="192.5" width="210" height="66" as="geometry" />
         </mxCell>
         <mxCell id="kLMKeRcshYw_PilVYGeS-19" value="主应用" style="text;html=1;strokeColor=#D6B656;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeWidth=2;fontStyle=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="150" y="166.5" width="63" height="120" as="geometry" />
@@ -44,13 +44,13 @@
           <mxGeometry x="670" y="71.5" width="119" height="45" as="geometry" />
         </mxCell>
         <mxCell id="kLMKeRcshYw_PilVYGeS-27" value="用户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;" parent="1" vertex="1">
-          <mxGeometry x="555" y="192.5" width="70" height="66" as="geometry" />
+          <mxGeometry x="575" y="192.5" width="70" height="66" as="geometry" />
         </mxCell>
         <mxCell id="kLMKeRcshYw_PilVYGeS-28" value="充值/提现" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="733" y="192.5" width="70" height="66" as="geometry" />
+          <mxGeometry x="745" y="192.5" width="70" height="66" as="geometry" />
         </mxCell>
         <mxCell id="kLMKeRcshYw_PilVYGeS-29" value="支付" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;" parent="1" vertex="1">
-          <mxGeometry x="643" y="192.5" width="70" height="66" as="geometry" />
+          <mxGeometry x="660" y="192.5" width="70" height="66" as="geometry" />
         </mxCell>
         <mxCell id="kLMKeRcshYw_PilVYGeS-31" value="Sports" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9999FF;strokeColor=#6666FF;" parent="1" vertex="1">
           <mxGeometry x="250" y="356.5" width="68" height="60" as="geometry" />
@@ -102,6 +102,18 @@
         </mxCell>
         <mxCell id="Sc-j87wyPzb0zVIOrXv2-4" value="iLOT前端（微前端架构）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Helvetica;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="455" y="12" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc-j87wyPzb0zVIOrXv2-5" value="导航 / 头部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;" vertex="1" parent="1">
+          <mxGeometry x="486" y="192.5" width="70" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc-j87wyPzb0zVIOrXv2-8" value="前&amp;nbsp;&lt;br&gt;端&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=right;pointerEvents=1;fontFamily=Helvetica;fontSize=17;fillColor=#E1D5E7;labelPosition=left;verticalLabelPosition=middle;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="100" y="168.5" width="25" height="280.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc-j87wyPzb0zVIOrXv2-9" value="后&amp;nbsp;&lt;br&gt;端&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=right;pointerEvents=1;fontFamily=Helvetica;fontSize=17;fillColor=#E1D5E7;labelPosition=left;verticalLabelPosition=middle;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="100" y="490" width="25" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc-j87wyPzb0zVIOrXv2-10" value="用&amp;nbsp;&lt;br&gt;&amp;nbsp;户&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=right;pointerEvents=1;fontFamily=Helvetica;fontSize=17;fillColor=#E1D5E7;labelPosition=left;verticalLabelPosition=middle;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="100" y="59" width="25" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
