@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-29T03:41:44.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="97NSWQ8Vx62Pn8TEULQz" version="18.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-29T04:15:34.261Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="iuxzomrsHM7PME7eY9NI" version="18.0.1" type="github">
   <diagram id="S-W2OL8QPShh_w-QYvUN" name="Page-1">
     <mxGraphModel dx="1886" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -107,7 +107,7 @@
         <mxCell id="4_R9WV05cplaqw-ET_kS-27" value="bigdata2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="410" y="600" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4_R9WV05cplaqw-ET_kS-28" value="bms" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="4_R9WV05cplaqw-ET_kS-28" value="bms" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;strokeWidth=2;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="528" y="450" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4_R9WV05cplaqw-ET_kS-29" value="cloudsql" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
@@ -122,15 +122,15 @@
           <mxGeometry x="380" y="675.63" width="50" height="48.75" as="geometry" />
         </mxCell>
         <mxCell id="4_R9WV05cplaqw-ET_kS-32" value="&lt;span style=&quot;&quot;&gt;bastion&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;strokeWidth=2;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="472.75" y="685" width="72" height="30" as="geometry" />
+          <mxGeometry x="472.75" y="694" width="72" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4_R9WV05cplaqw-ET_kS-44" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;" edge="1" parent="1" source="4_R9WV05cplaqw-ET_kS-33" target="4_R9WV05cplaqw-ET_kS-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4_R9WV05cplaqw-ET_kS-33" value="vpn&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;strokeWidth=2;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="588" y="685" width="72" height="30" as="geometry" />
+          <mxGeometry x="588" y="694" width="72" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4_R9WV05cplaqw-ET_kS-38" value="" style="endArrow=block;startArrow=block;html=1;rounded=0;fontSize=10;startFill=1;endFill=1;" edge="1" parent="1">
+        <mxCell id="4_R9WV05cplaqw-ET_kS-38" value="" style="endArrow=block;startArrow=block;html=1;rounded=0;fontSize=10;startFill=1;endFill=1;exitX=0.406;exitY=-0.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4_R9WV05cplaqw-ET_kS-32">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="501" y="680" as="sourcePoint" />
             <mxPoint x="501" y="650" as="targetPoint" />
@@ -152,10 +152,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4_R9WV05cplaqw-ET_kS-52" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#6F0000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#a20025;shape=mxgraph.mscae.enterprise.firewall;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="660" y="687.5" width="28.41" height="25" as="geometry" />
+          <mxGeometry x="660" y="696.5" width="28.41" height="25" as="geometry" />
         </mxCell>
         <mxCell id="4_R9WV05cplaqw-ET_kS-53" value="互联网" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="900" y="665" width="100" height="70" as="geometry" />
+          <mxGeometry x="900" y="674" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4_R9WV05cplaqw-ET_kS-58" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#6F0000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#a20025;shape=mxgraph.mscae.enterprise.firewall;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="586" y="452.5" width="28.41" height="25" as="geometry" />
@@ -187,8 +187,8 @@
         </mxCell>
         <mxCell id="4_R9WV05cplaqw-ET_kS-63" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;sketch=0;fontColor=#999999;strokeWidth=2;curved=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="889" y="701" as="sourcePoint" />
-            <mxPoint x="687.4099999999999" y="701" as="targetPoint" />
+            <mxPoint x="889" y="710" as="sourcePoint" />
+            <mxPoint x="687.4099999999999" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4_R9WV05cplaqw-ET_kS-64" value="udp&amp;nbsp; 4500 500&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;fontStyle=1" vertex="1" connectable="0" parent="4_R9WV05cplaqw-ET_kS-63">
@@ -207,6 +207,9 @@
         </mxCell>
         <mxCell id="4_R9WV05cplaqw-ET_kS-79" value="后端服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="169" y="380" width="71" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4_R9WV05cplaqw-ET_kS-82" value="tcp 22" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="501.75" y="660" width="43" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
