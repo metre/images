@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-23T07:27:34.441Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Z3riKgyA_fLUgzeRhmhB" version="20.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-23T07:28:54.305Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="NJKgaDhmzLiNLFAgAEbL" version="20.6.2" type="github" pages="2">
   <diagram id="0ysHFTCivcRCxHC7qrkj" name="Page-1">
     <mxGraphModel dx="1186" dy="152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -160,7 +160,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b_ls-SB_l7uJ3m5emNh7-2" value="是否存在可用模板？" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;rounded=0;shadow=0;glass=0;sketch=0;spacingTop=10;spacing=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="b_ls-SB_l7uJ3m5emNh7-2" value="是否存在可用模板" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;rounded=0;shadow=0;glass=0;sketch=0;spacingTop=3;spacing=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="130" y="150" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="b_ls-SB_l7uJ3m5emNh7-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="b_ls-SB_l7uJ3m5emNh7-5">
@@ -187,7 +187,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b_ls-SB_l7uJ3m5emNh7-9" value="是否有可用游戏？" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;rounded=0;shadow=0;glass=0;sketch=0;spacingTop=2;spacing=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="b_ls-SB_l7uJ3m5emNh7-9" value="是否有可用游戏" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;rounded=0;shadow=0;glass=0;sketch=0;spacingTop=2;spacing=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="130" y="360" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="b_ls-SB_l7uJ3m5emNh7-13" value="开发游戏" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -211,7 +211,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b_ls-SB_l7uJ3m5emNh7-14" value="游戏界面是否适配？" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;rounded=0;shadow=0;glass=0;sketch=0;spacingTop=2;spacing=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="b_ls-SB_l7uJ3m5emNh7-14" value="游戏界面是否适配" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;rounded=0;shadow=0;glass=0;sketch=0;spacingTop=2;spacing=21;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="130" y="570" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="b_ls-SB_l7uJ3m5emNh7-21" value="适配新界面" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
