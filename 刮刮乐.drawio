@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-10T06:30:37.607Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="nFf8a90LcjuU_XyNp_96" version="20.8.14" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-10T06:31:15.771Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="XrlgUdG0yQTylBAAzKo7" version="20.8.14" type="github">
   <diagram name="第 1 页" id="jbVKTQSptvNi_GKnWXF9">
     <mxGraphModel dx="1886" dy="820" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -81,7 +81,7 @@
         <mxCell id="t4aKNgLSTl6HfS3u7j_9-50" value="使用个人securityToken对刮刮乐谜底解密）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="900" y="390" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="t4aKNgLSTl6HfS3u7j_9-51" value="&lt;h1&gt;刮刮乐加解密原理&lt;/h1&gt;&lt;p&gt;1. 登录用户增加一个securityToken，用于加解密自己购买的刮刮乐卡片；&lt;/p&gt;&lt;p&gt;2. 前端刮刮乐列表接口，只返回编号、购买面额等展示字段，不返回谜底内容；&lt;/p&gt;&lt;p&gt;3. 用户购买后，使用用户的securityToken加密购买的刮刮卡谜底，并返回前端；&lt;/p&gt;&lt;p&gt;4. 用户刮奖时，再使用securityToken进行解密，并展示最终刮奖结果。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="t4aKNgLSTl6HfS3u7j_9-51" value="&lt;h1&gt;刮刮乐加解密原理&lt;/h1&gt;&lt;p&gt;1. 登录用户新增加一个独立的securityToken，用于加解密自己购买的刮刮乐卡片；&lt;/p&gt;&lt;p&gt;2. 前端刮刮乐列表接口，只返回编号、购买面额等展示字段，不返回谜底内容；&lt;/p&gt;&lt;p&gt;3. 用户购买后，使用用户的securityToken加密购买的刮刮卡谜底，并返回前端；&lt;/p&gt;&lt;p&gt;4. 用户刮奖时，再使用securityToken进行解密，并展示最终刮奖结果。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="52" width="540" height="149" as="geometry" />
         </mxCell>
       </root>
