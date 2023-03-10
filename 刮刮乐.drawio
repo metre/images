@@ -1,1 +1,90 @@
-<mxfile host="app.diagrams.net" modified="2023-03-10T05:41:49.086Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.14" etag="M6rpBq2QJzv8MS75Hrbh" type="github"><diagram name="第 1 页" id="jbVKTQSptvNi_GKnWXF9">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-10T06:30:37.607Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="nFf8a90LcjuU_XyNp_96" version="20.8.14" type="github">
+  <diagram name="第 1 页" id="jbVKTQSptvNi_GKnWXF9">
+    <mxGraphModel dx="1886" dy="820" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="t4aKNgLSTl6HfS3u7j_9-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="270" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t4aKNgLSTl6HfS3u7j_9-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t4aKNgLSTl6HfS3u7j_9-1" target="t4aKNgLSTl6HfS3u7j_9-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="300" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t4aKNgLSTl6HfS3u7j_9-9" value="浏览刮刮乐" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="t4aKNgLSTl6HfS3u7j_9-8">
+          <mxGeometry x="-0.2353" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t4aKNgLSTl6HfS3u7j_9-44" value="购买" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t4aKNgLSTl6HfS3u7j_9-7" target="t4aKNgLSTl6HfS3u7j_9-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t4aKNgLSTl6HfS3u7j_9-7" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="233.75" width="190" height="132.5" as="geometry" />
+        </mxCell>
+        <mxCell id="t4aKNgLSTl6HfS3u7j_9-10" value="编号:001&lt;br&gt;面额:$50" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="246.25" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="t4aKNgLSTl6HfS3u7j_9-25" value="编号:002&lt;br&gt;面额:$50" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="246.25" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="t4aKNgLSTl6HfS3u7j_9-26" value="编号:003&lt;br&gt;面额:$50" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="306.25" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="t4aKNgLSTl6HfS3u7j_9-27" value="编号:004&lt;br&gt;面额:$50" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="306.25" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="t4aKNgLSTl6HfS3u7j_9-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t4aKNgLSTl6HfS3u7j_9-29" target="t4aKNgLSTl6HfS3u7j_9-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t4aKNgLSTl6HfS3u7j_9-36" value="开奖/刮奖" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="t4aKNgLSTl6HfS3u7j_9-35">
+          <mxGeometry x="-0.1891" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t4aKNgLSTl6HfS3u7j_9-29" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="240.62" width="120" height="118.75" as="geometry" />
+        </mxCell>
+        <mxCell id="t4aKNgLSTl6HfS3u7j_9-34" value="&amp;nbsp;编号:001&lt;br&gt;&amp;nbsp;面额:$50&lt;br&gt;&amp;nbsp;谜底:f29x.." style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="820" y="256.24" width="80" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="t4aKNgLSTl6HfS3u7j_9-38" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="450" width="120" height="118.75" as="geometry" />
+        </mxCell>
+        <mxCell id="t4aKNgLSTl6HfS3u7j_9-39" value="&amp;nbsp;编号:001&lt;br&gt;&amp;nbsp;面额:$50&lt;br&gt;&amp;nbsp;谜底:$80" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="820" y="470.63" width="80" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="t4aKNgLSTl6HfS3u7j_9-41" value="去登录" style="whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="410.63" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t4aKNgLSTl6HfS3u7j_9-47" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t4aKNgLSTl6HfS3u7j_9-45" target="t4aKNgLSTl6HfS3u7j_9-29">
+          <mxGeometry x="-0.1428" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t4aKNgLSTl6HfS3u7j_9-48" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t4aKNgLSTl6HfS3u7j_9-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t4aKNgLSTl6HfS3u7j_9-45" value="是否登录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t4aKNgLSTl6HfS3u7j_9-49" value="登录成功返回securityToken" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="316.25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t4aKNgLSTl6HfS3u7j_9-50" value="使用个人securityToken对刮刮乐谜底解密）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="390" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t4aKNgLSTl6HfS3u7j_9-51" value="&lt;h1&gt;刮刮乐加解密原理&lt;/h1&gt;&lt;p&gt;1. 登录用户增加一个securityToken，用于加解密自己购买的刮刮乐卡片；&lt;/p&gt;&lt;p&gt;2. 前端刮刮乐列表接口，只返回编号、购买面额等展示字段，不返回谜底内容；&lt;/p&gt;&lt;p&gt;3. 用户购买后，使用用户的securityToken加密购买的刮刮卡谜底，并返回前端；&lt;/p&gt;&lt;p&gt;4. 用户刮奖时，再使用securityToken进行解密，并展示最终刮奖结果。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="52" width="540" height="149" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
