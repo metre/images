@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T07:54:09.424Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="21.0.6" etag="FIjRZet-k5XQhe2fF2Sp" type="github"><diagram name="第 1 页" id="b_Ps88_xSbSeeQ5jZP6x">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-24T08:02:48.173Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="O9Fh9O29SzrO1jBzzb_x" version="21.0.6" type="github">
+  <diagram name="第 1 页" id="b_Ps88_xSbSeeQ5jZP6x">
+    <mxGraphModel dx="1886" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="g1V0Y7g1Ap4DoWxWMUA4-1" value="现有情况" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;verticalAlign=top;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="100" y="180" width="990" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="g1V0Y7g1Ap4DoWxWMUA4-3" value="前端技术栈" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=31;" vertex="1" parent="1">
+          <mxGeometry x="410" y="40" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g1V0Y7g1Ap4DoWxWMUA4-4" value="PC/H5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="130" y="230" width="210" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="g1V0Y7g1Ap4DoWxWMUA4-6" value="Vue" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="190" y="270" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="g1V0Y7g1Ap4DoWxWMUA4-7" value="JS框架" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="140" y="280" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g1V0Y7g1Ap4DoWxWMUA4-8" value="UI框架" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="140" y="360" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g1V0Y7g1Ap4DoWxWMUA4-9" value="Vuetify" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="190" y="350" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="g1V0Y7g1Ap4DoWxWMUA4-10" value="ElementUi" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="250" y="350" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="g1V0Y7g1Ap4DoWxWMUA4-11" value="终端（Android/IOS）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="450" y="230" width="200" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
