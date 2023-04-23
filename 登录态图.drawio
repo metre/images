@@ -1,38 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2023-04-23T11:31:36.253Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="NYGyPU04o7GS_GG09mq0" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-23T11:33:47.228Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="5wR6TK4CZg5Iu06YRCZJ" version="21.1.0" type="github">
   <diagram name="第 1 页" id="yQMvL_h6BA8Q6oHXnqyN">
     <mxGraphModel dx="1886" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="R7AZTn6As0TXf9V7EhLT-1" value="平台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="270" y="80" width="510" height="230" as="geometry" />
+          <mxGeometry x="160" y="80" width="510" height="230" as="geometry" />
         </mxCell>
         <mxCell id="R7AZTn6As0TXf9V7EhLT-3" value="vuex（local）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="340" y="165" width="160" height="75" as="geometry" />
+          <mxGeometry x="230" y="165" width="160" height="75" as="geometry" />
         </mxCell>
         <mxCell id="R7AZTn6As0TXf9V7EhLT-4" value="local" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="560" y="165" width="160" height="75" as="geometry" />
+          <mxGeometry x="450" y="165" width="160" height="75" as="geometry" />
         </mxCell>
         <mxCell id="R7AZTn6As0TXf9V7EhLT-6" value="token" style="text;html=1;strokeColor=none;fillColor=#c3b6b6;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillStyle=auto;" vertex="1" parent="1">
-          <mxGeometry x="610" y="200" width="60" height="30" as="geometry" />
+          <mxGeometry x="500" y="200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R7AZTn6As0TXf9V7EhLT-7" value="isLogin" style="text;html=1;strokeColor=none;fillColor=#c3b6b6;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillStyle=auto;" vertex="1" parent="1">
-          <mxGeometry x="390" y="200" width="60" height="30" as="geometry" />
+          <mxGeometry x="280" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R7AZTn6As0TXf9V7EhLT-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="R7AZTn6As0TXf9V7EhLT-8" target="R7AZTn6As0TXf9V7EhLT-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R7AZTn6As0TXf9V7EhLT-8" value="子项目" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="270" y="427.5" width="510" height="232.5" as="geometry" />
+          <mxGeometry x="160" y="427.5" width="510" height="232.5" as="geometry" />
         </mxCell>
         <mxCell id="R7AZTn6As0TXf9V7EhLT-9" value="vuex（session）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="360" y="505" width="130" height="75" as="geometry" />
+          <mxGeometry x="250" y="505" width="130" height="75" as="geometry" />
         </mxCell>
         <mxCell id="R7AZTn6As0TXf9V7EhLT-10" value="local" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="540" y="505" width="110" height="75" as="geometry" />
+          <mxGeometry x="430" y="505" width="110" height="75" as="geometry" />
         </mxCell>
         <mxCell id="R7AZTn6As0TXf9V7EhLT-12" value="isLogin" style="text;html=1;strokeColor=none;fillColor=#c3b6b6;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillStyle=auto;" vertex="1" parent="1">
-          <mxGeometry x="395" y="540" width="60" height="30" as="geometry" />
+          <mxGeometry x="285" y="540" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R7AZTn6As0TXf9V7EhLT-13" value="&lt;h1&gt;登录相关参数：&lt;/h1&gt;&lt;p&gt;&lt;b&gt;1. token：&lt;/b&gt;用户登录授权码，保存到local，做持久化储存。&lt;/p&gt;&lt;p&gt;&lt;b&gt;2. isLogin：&lt;/b&gt;是否登录，由token判断进行赋值。用于页面做响应式处理。&lt;/p&gt;&lt;p&gt;.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="870" y="80" width="240" height="120" as="geometry" />
+        <mxCell id="R7AZTn6As0TXf9V7EhLT-13" value="&lt;h1&gt;登录相关参数：&lt;/h1&gt;&lt;p&gt;&lt;b&gt;1. token：&lt;/b&gt;用户登录授权码，保存到local，做持久化储存。主要有平台写入。&lt;/p&gt;&lt;p&gt;&lt;b&gt;2. isLogin：&lt;/b&gt;是否登录，由token判断进行赋值。用于页面做响应式处理。所有项目启动入口都需要先获取token，以判断登录态写入isLogin后续业务处理。&lt;/p&gt;&lt;p&gt;.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="80" width="260" height="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
